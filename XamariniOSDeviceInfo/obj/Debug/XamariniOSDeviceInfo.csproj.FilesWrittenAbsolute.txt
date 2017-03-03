@@ -1,0 +1,5 @@
+/Users/DELPIN/Projects/XamariniOSDeviceInfo/XamariniOSDeviceInfo/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSDeviceInfo/XamariniOSDeviceInfo/bin/Debug/XamariniOSDeviceInfo.dll.mdb
+/Users/DELPIN/Projects/XamariniOSDeviceInfo/XamariniOSDeviceInfo/bin/Debug/XamariniOSDeviceInfo.dll
+/Users/DELPIN/Projects/XamariniOSDeviceInfo/XamariniOSDeviceInfo/obj/Debug/XamariniOSDeviceInfo.dll
+/Users/DELPIN/Projects/XamariniOSDeviceInfo/XamariniOSDeviceInfo/obj/Debug/XamariniOSDeviceInfo.dll.mdb
